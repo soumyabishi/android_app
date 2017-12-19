@@ -3,22 +3,20 @@
 	<div id="app">
 
 		<!-- Statusbar -->
-		<f7-statusbar></f7-statusbar>
+		<div class="statusbar-overlay layout-dark"></div>
+		<!--<f7-statusbar></f7-statusbar>-->
 
 
 
 		<!-- Main Views -->
 		<f7-views>
 			<f7-view id="main-view" navbar-through :dynamic-navbar="true" main>
-				<!-- Navbar -->
-				<f7-navbar title="News App" theme="#ffffff">
 
-
-
-				</f7-navbar>
 				<!-- Pages -->
 				<f7-pages>
-					<f7-page>
+					<f7-page class="custom-page">
+
+						<h1 class="ibm"></h1>
 
 						<!--<div class="content-block row">-->
 
@@ -32,36 +30,43 @@
 
 						<!--<a @click="fetchArticles()">Fetch news</a>-->
 
-						<div class="content-block-title">Top headlines</div>
-						<div class="list-block media-list">
+
+						<form class="list-block">
 							<ul>
-								<li v-for="article in news">
-									<a href="/about" class="item-link item-content">
-										<div class="item-media"><img v-bind:src="article.urlToImage" width="80"></div>
+								<!-- Text Input -->
+								<li>
+									<div class="item-content custom-form">
 										<div class="item-inner">
-											<div class="item-title-row">
-												<div class="item-title">{{article.title}}</div>
-												<div class="item-after"><timeago :since="article.publishedAt" :auto-update="0"></timeago></div>
-											</div>
-											<div class="item-subtitle">{{article.source.name}}</div>
-											<div class="item-text">{{article.description}}</div>
+											<div class="item-title label custom-label">Your name</div>
+											<div class="item-input">
+												<input type="text" placeholder="Vamsi"></div>
 										</div>
-									</a>
+									</div>
+								</li>
+								<!-- Password -->
+								<li>
+									<div class="item-content custom-form">
+										<div class="item-inner">
+											<div class="item-title label custom-label">Your crush</div>
+											<div class="item-input">
+												<input type="text" placeholder="Mounica"></div>
+										</div>
+									</div>
 								</li>
 
 							</ul>
+
+						</form>
+
+
+						<div class="content-block">
+							<f7-button big raised fill color="red">Calculate love</f7-button>
 						</div>
 
-						<!--<f7-swiper scrollbar>-->
-							<!--<f7-swiper-slide v-for="article in news">-->
 
-								<!--&lt;!&ndash;<img v-bind:src="article.urlToImage">&ndash;&gt;-->
-								<!--<h1>{{article.title}}</h1>-->
-								<!--<p>{{article.description}}</p>-->
 
-							<!--</f7-swiper-slide>-->
 
-						<!--</f7-swiper>-->
+
 					</f7-page>
 				</f7-pages>
 			</f7-view>
@@ -118,6 +123,27 @@
 </script>
 
 
-<style lang=scss>
+<style lang="scss">
+	@import "../node_modules/@ibm/type/css/ibm-type.min.css";
+
+	.layout-dark .page.custom-page{
+		background-color: #22232D;
+	}
+
+	.custom-form{
+
+		.focus-state.item-inner .label{
+			color: #fff !important;
+		}
+		.custom-label{
+			text-transform: uppercase !important;
+
+		}
+		input{
+			height: 66px !important;
+			font-size: 39px !important;
+		}
+	}
+
 
 </style>

@@ -37,6 +37,7 @@
     "webpack-dev-server": "^2.4.1"
   },
   "dependencies": {
+    "@ibm/type": "^0.5.3",
     "axios": "^0.17.1",
     "cordova-android": "^6.3.0",
     "cordova-browser": "^5.0.1",
