@@ -9,6 +9,12 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.example.newsapp"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.example.newsapp"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.example.newsapp"
     }
   },
   "dependent_plugins": {}

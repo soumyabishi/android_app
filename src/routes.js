@@ -1,7 +1,7 @@
 export default [
   {
-    path: '/about/',
-    component: require('./assets/vue/pages/about.vue')
+    path: '/match/',
+    component: require('./assets/vue/pages/match.vue')
   },
   {
     path: '/form/',
@@ -12,3 +12,6 @@ export default [
     component: require('./assets/vue/pages/dynamic-route.vue')
   }
 ]
+
+
+

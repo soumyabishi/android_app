@@ -10,11 +10,24 @@
 
 		<!-- Main Views -->
 		<f7-views>
-			<f7-view id="main-view" navbar-through :dynamic-navbar="true" main>
+			<f7-view id="main-view" navbar-through :dynamic-navbar="false" main>
+
 
 				<!-- Pages -->
-				<f7-pages>
+				<f7-pages no-navbar="true">
 					<f7-page class="custom-page">
+
+
+						<f7-navbar theme="22232D" no-shadow>
+							<f7-nav-left>
+								<f7-link icon="icon-bars" open-panel="right"></f7-link>
+							</f7-nav-left>
+							<f7-nav-center></f7-nav-center>
+							<f7-nav-right>
+								<!--<f7-link icon-material="icon-bars" open-panel="right"></f7-link>-->
+							</f7-nav-right>
+						</f7-navbar>
+
 
 						<h1 class="ibm"></h1>
 
@@ -30,6 +43,11 @@
 
 						<!--<a @click="fetchArticles()">Fetch news</a>-->
 
+						<!--<div class="content-block">-->
+							<!--<img src="./assets/images/svg_calculator.svg">-->
+						<!--</div>-->
+
+
 
 						<form class="list-block">
 							<ul>
@@ -39,7 +57,7 @@
 										<div class="item-inner">
 											<div class="item-title label custom-label">Your name</div>
 											<div class="item-input">
-												<input type="text" placeholder="Vamsi"></div>
+												<input type="text" placeholder="Vamsi" v-model="yourName"></div>
 										</div>
 									</div>
 								</li>
@@ -49,18 +67,22 @@
 										<div class="item-inner">
 											<div class="item-title label custom-label">Your crush</div>
 											<div class="item-input">
-												<input type="text" placeholder="Mounica"></div>
+												<input type="text" placeholder="Mounica" v-model="crushName"></div>
 										</div>
 									</div>
 								</li>
 
 							</ul>
 
+
+
 						</form>
 
 
 						<div class="content-block">
-							<f7-button big raised fill color="red">Calculate love</f7-button>
+							<a href="#" class="color-red button-fill button-big button-raised button"
+							   v-bind:href="''+ '/match?fname=' + yourName + '&' + 'sname='+ crushName+ ''">Calculate love</a>
+
 						</div>
 
 
@@ -69,8 +91,13 @@
 
 					</f7-page>
 				</f7-pages>
+
+
 			</f7-view>
 		</f7-views>
+
+
+
 
 
 	</div>
@@ -91,33 +118,13 @@
 
 
     export default {
-
         data() {
             return {
-                news : []
-			}
-        },
-
-        methods: {
-
-            fetchArticles() {
-
-
-                axios.get('https://newsapi.org/v2/top-headlines?sources=techcrunch,the-next-web,mashable&apiKey=77053730ff024682b1ed50eb49243626')
-                    .then(response => {
-                        this.news = response.data.articles;
-
-                    }, error => {
-                        console.log(error);
-                    });
+                yourName : '',
+				crushName :''
 
             }
-
         },
-
-		mounted: function() {
-            this.fetchArticles();
-		}
 
     }
 </script>
@@ -126,9 +133,16 @@
 <style lang="scss">
 	@import "../node_modules/@ibm/type/css/ibm-type.min.css";
 
-	.layout-dark .page.custom-page{
+	.layout-dark .page.custom-page, .theme-red .navbar{
 		background-color: #22232D;
+
+		.list-block ul:before{
+			display: none;
+		}
 	}
+
+
+
 
 	.custom-form{
 
