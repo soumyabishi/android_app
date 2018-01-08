@@ -3,6 +3,8 @@
 
 A hybrid android app made using [Cordova](https://cordova.apache.org/), [Vuejs2](https://vuejs.org/), [Framework7](framework7.io) and [Webpack](https://webpack.js.org/).
 
+App landing - [http://soumyabishi.github.io/Lamour](http://soumyabishi.github.io/Lamour)
+
 ![Alt Text](https://media.giphy.com/media/l49JPKkeibEuWeFPi/giphy.gif)
 
 
@@ -57,3 +59,10 @@ $ cordova build ios
 ## Todo
 1. Recent search results
 2. Animated splash screen
+
+
+## Acknowledgments
+
+Shoutout to [@ankitakumar04](https://github.com/ankitakumar04/) for helping me in landing page frontend development. 
+
+
