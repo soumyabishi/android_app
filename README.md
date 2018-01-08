@@ -3,6 +3,10 @@
 
 A hybrid android app made using Cordova, Vuejs2, Framework7 and Webpack.
 
+![Alt Text](https://media.giphy.com/media/l49JPKkeibEuWeFPi/giphy.gif)
+
+
+
 
 ## Getting Started
 
