@@ -34,12 +34,11 @@ Install dependencies
 $ npm install 
 ```
 
-Usage
-You can use every cordova commands. You just have one more command option: -- --lr. It starts live reload.
+Usage: you can use every cordova commands. You just have one more command option: -- --lr. It starts live reload.
 
 ```
-cordova run android -- --lr
-cordova run browser -- --live-reload
+$ cordova run android -- --lr
+$ cordova run browser -- --live-reload
 ```
 
 ### Build the App
@@ -52,6 +51,5 @@ $ cordova build ios
 
 
 ## Todo
-1. Recent serach results
+1. Recent search results
 2. Animated splash screen
-
