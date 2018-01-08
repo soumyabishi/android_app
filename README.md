@@ -1,7 +1,7 @@
 
 # L'amour - Love calculator
 
-A hybrid android app made using Cordova, Vuejs2, Framework7 and Webpack.
+A hybrid android app made using [Cordova](https://cordova.apache.org/), [Vuejs2](https://vuejs.org/), [Framework7](framework7.io) and [Webpack](https://webpack.js.org/).
 
 ![Alt Text](https://media.giphy.com/media/l49JPKkeibEuWeFPi/giphy.gif)
 
