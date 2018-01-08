@@ -56,13 +56,13 @@ $ cordova build ios
 ```
 
 
-## Todo
+## Todos
 1. Recent search results
 2. Animated splash screen
 
 
 ## Acknowledgments
 
-Shoutout to [@ankitakumar04](https://github.com/ankitakumar04/) for helping me in landing page frontend development. 
+Shout out to [@ankitakumar04](https://github.com/ankitakumar04/) for helping me in landing page frontend development. 
 
 
