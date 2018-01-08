@@ -1,9 +1,9 @@
 {
   "background_color": "#FFF",
   "display": "standalone",
-  "name": "newsapp",
-  "short_name": "newsapp",
-  "version": "com.example.newsapp",
+  "name": "L'amour",
+  "short_name": "L'amour",
+  "version": "com.soumyabishi.lamour",
   "description": "Brand new cordova project!",
   "author": "Apache Cordova Team",
   "icons": [],

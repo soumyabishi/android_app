@@ -4,7 +4,7 @@ import Vue from 'vue'
 
 import VueLazyload from 'vue-lazyload'
 
-Vue.use(VueLazyload)
+Vue.use(VueLazyload);
 
 // or with options
 Vue.use(VueLazyload, {
@@ -37,6 +37,7 @@ import Routes from './routes.js'
 
 // Import App Component
 import App from './main.vue'
+
 
 // Init F7 Vue Plugin
 Vue.use(Framework7Vue)

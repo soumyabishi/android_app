@@ -31,23 +31,6 @@
 
 						<h1 class="ibm"></h1>
 
-						<!--<div class="content-block row">-->
-
-							<!--&lt;!&ndash; Default preloader &ndash;&gt;-->
-							<!--<div style="text-align: center;">-->
-								<!--<span class="preloader"></span>-->
-							<!--</div>-->
-
-						<!--</div>-->
-
-
-						<!--<a @click="fetchArticles()">Fetch news</a>-->
-
-						<!--<div class="content-block">-->
-							<!--<img src="./assets/images/svg_calculator.svg">-->
-						<!--</div>-->
-
-
 
 						<form class="list-block">
 							<ul>
@@ -80,7 +63,8 @@
 
 
 						<div class="content-block">
-							<a href="#" class="color-red button-fill button-big button-raised button"
+
+							<a href="#" v-bind:class="{ disabled: (yourName.length==0 || crushName.length==0)}" class="color-red button-fill button-big button-raised button"
 							   v-bind:href="''+ '/match?fname=' + yourName + '&' + 'sname='+ crushName+ ''">Calculate love</a>
 
 						</div>
@@ -95,6 +79,10 @@
 
 			</f7-view>
 		</f7-views>
+
+
+
+
 
 
 

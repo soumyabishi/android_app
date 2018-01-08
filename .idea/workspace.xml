@@ -1,66 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f950c0d3-8843-405e-996d-1f067647a3da" name="Default" comment="Dynamic query added :first_quarter_moon_with_face:">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/res/splash-screens/1280x1920.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/res/splash-screens/200x320.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/res/splash-screens/320x480.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/res/splash-screens/480x800.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/res/splash-screens/720x1280.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/android/res/splash-screens/960x1600.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/vue/pages/source.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/svg_calculator.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/assets/vue/pages/about.vue" afterPath="$PROJECT_DIR$/src/assets/vue/pages/match.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/drawable-land-hdpi/screen.png" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-land-hdpi/screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/drawable-land-ldpi/screen.png" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-land-ldpi/screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/drawable-land-mdpi/screen.png" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-land-mdpi/screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/drawable-land-xhdpi/screen.png" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-land-xhdpi/screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/drawable-land-xxhdpi/screen.png" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-land-xxhdpi/screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/drawable-land-xxxhdpi/screen.png" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-land-xxxhdpi/screen.png" />
+    <list default="true" id="f950c0d3-8843-405e-996d-1f067647a3da" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/icons/icon@HDPI.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/icons/icon@MDPI.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/icons/icon@XHDPI.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/icons/icon@XXHDPI.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/icons/icon@XXXHDPI.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/1280x1920.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/200x320.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/320x480.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/480x800.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/720X1280.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/960x1600.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/assets/images/splash_web.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/last_results.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/res/drawable-land-hdpi/screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/res/drawable-land-ldpi/screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/res/drawable-land-mdpi/screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/res/drawable-land-xhdpi/screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/res/drawable-land-xxhdpi/screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/res/drawable-land-xxxhdpi/screen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/res/mipmap-xhdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/res/mipmap-xxxhdpi/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/platforms/android/src/com/example/newsapp/MainActivity.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/drawable-port-hdpi/screen.png" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-port-hdpi/screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/drawable-port-ldpi/screen.png" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-port-ldpi/screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/drawable-port-mdpi/screen.png" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-port-mdpi/screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/drawable-port-xhdpi/screen.png" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-port-xhdpi/screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/drawable-port-xxhdpi/screen.png" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-port-xxhdpi/screen.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/drawable-port-xxxhdpi/screen.png" afterPath="$PROJECT_DIR$/platforms/android/res/drawable-port-xxxhdpi/screen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/mipmap-hdpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/res/mipmap-hdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/mipmap-ldpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/res/mipmap-ldpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/mipmap-mdpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/res/mipmap-mdpi/icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/mipmap-xxhdpi/icon.png" afterPath="$PROJECT_DIR$/platforms/android/res/mipmap-xxhdpi/icon.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/android-versions/package.json" afterPath="$PROJECT_DIR$/node_modules/android-versions/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cordova-android/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/cordova-android/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cordova-android/RELEASENOTES.md" afterPath="$PROJECT_DIR$/node_modules/cordova-android/RELEASENOTES.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cordova-android/VERSION" afterPath="$PROJECT_DIR$/node_modules/cordova-android/VERSION" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cordova-android/appveyor.yml" afterPath="$PROJECT_DIR$/node_modules/cordova-android/appveyor.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cordova-android/bin/templates/cordova/lib/builders/GenericBuilder.js" afterPath="$PROJECT_DIR$/node_modules/cordova-android/bin/templates/cordova/lib/builders/GenericBuilder.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cordova-android/bin/templates/cordova/lib/builders/GradleBuilder.js" afterPath="$PROJECT_DIR$/node_modules/cordova-android/bin/templates/cordova/lib/builders/GradleBuilder.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cordova-android/bin/templates/cordova/lib/check_reqs.js" afterPath="$PROJECT_DIR$/node_modules/cordova-android/bin/templates/cordova/lib/check_reqs.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cordova-android/bin/templates/cordova/lib/emulator.js" afterPath="$PROJECT_DIR$/node_modules/cordova-android/bin/templates/cordova/lib/emulator.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cordova-android/bin/templates/cordova/version" afterPath="$PROJECT_DIR$/node_modules/cordova-android/bin/templates/cordova/version" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cordova-android/bin/templates/project/assets/www/cordova.js" afterPath="$PROJECT_DIR$/node_modules/cordova-android/bin/templates/project/assets/www/cordova.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cordova-android/bin/templates/project/build.gradle" afterPath="$PROJECT_DIR$/node_modules/cordova-android/bin/templates/project/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cordova-android/framework/build.gradle" afterPath="$PROJECT_DIR$/node_modules/cordova-android/framework/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cordova-android/framework/src/org/apache/cordova/CordovaWebView.java" afterPath="$PROJECT_DIR$/node_modules/cordova-android/framework/src/org/apache/cordova/CordovaWebView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cordova-android/package.json" afterPath="$PROJECT_DIR$/node_modules/cordova-android/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cordova-android/spec/unit/emulator.spec.js" afterPath="$PROJECT_DIR$/node_modules/cordova-android/spec/unit/emulator.spec.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/cordova-android/test/app/build.gradle" afterPath="$PROJECT_DIR$/node_modules/cordova-android/test/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/android.json" afterPath="$PROJECT_DIR$/platforms/android/android.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/assets/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/android/assets/www/cordova_plugins.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/platform_www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/android/platform_www/cordova_plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/AndroidManifest.xml" afterPath="$PROJECT_DIR$/platforms/android/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/values/strings.xml" afterPath="$PROJECT_DIR$/platforms/android/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/android/res/xml/config.xml" afterPath="$PROJECT_DIR$/platforms/android/res/xml/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/browser.json" afterPath="$PROJECT_DIR$/platforms/browser/browser.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/config.xml" afterPath="$PROJECT_DIR$/platforms/browser/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/platform_www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/browser/platform_www/cordova_plugins.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/config.xml" afterPath="$PROJECT_DIR$/platforms/browser/www/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/platforms/browser/www/cordova_plugins.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/index.html" afterPath="$PROJECT_DIR$/platforms/browser/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/android.json" afterPath="$PROJECT_DIR$/plugins/android.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/browser.json" afterPath="$PROJECT_DIR$/plugins/browser.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/plugins/fetch.json" afterPath="$PROJECT_DIR$/plugins/fetch.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/platforms/browser/www/manifest.json" afterPath="$PROJECT_DIR$/platforms/browser/www/manifest.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.js" afterPath="$PROJECT_DIR$/src/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.vue" afterPath="$PROJECT_DIR$/src/main.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/routes.js" afterPath="$PROJECT_DIR$/src/routes.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -91,35 +71,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="config.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="31" column="32" lean-forward="false" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+            <state relative-caret-position="140">
+              <caret line="38" column="62" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/platforms/browser/config.xml">
+      <file leaf-file-name="hookers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hooks/hookers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-              <folding>
-                <element signature="e#14#35#0" expanded="true" />
-                <element signature="e#574#651#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -127,23 +94,60 @@
       <file leaf-file-name="main.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1010">
-              <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
               <folding>
-                <element signature="e#2270#2296#0" expanded="true" />
+                <element signature="n#f7-views#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+                <element signature="e#1924#1950#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="match.vue" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <element signature="e#14#35#0" expanded="true" />
+                <element signature="e#575#652#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="439">
+              <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+              <folding>
+                <marker date="1515413701000" expanded="true" signature="0:2001" ph="{&quot;name&quot;: &quot;com.example.newsapp&quot;...}" />
+                <marker date="1515413701000" expanded="true" signature="1151:1629" ph="{&quot;@ibm/type&quot;: &quot;^0.5.3&quot;...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="match.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/assets/vue/pages/match.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="93" column="43" lean-forward="false" selection-start-line="93" selection-start-column="43" selection-end-line="93" selection-end-column="43" />
+            <state relative-caret-position="337">
+              <caret line="82" column="30" lean-forward="false" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="30" />
               <folding>
                 <element signature="e#928#954#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="last_results.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/last_results.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -168,21 +172,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-              <folding>
-                <marker date="1513854703000" expanded="true" signature="0:2000" ph="{&quot;name&quot;: &quot;com.example.newsapp&quot;...}" />
-                <marker date="1513854703000" expanded="true" signature="1151:1158" ph="{&quot;axios&quot;: &quot;^0.17.1&quot;...}" />
-                <marker date="1513854703000" expanded="true" signature="1151:1262" ph="{&quot;@ibm/type&quot;: &quot;^0.5.3&quot;...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -202,6 +199,9 @@
       <find>logo.png</find>
       <find>400px</find>
       <find>background-colo</find>
+      <find>search_data</find>
+      <find>320x480.png</find>
+      <find>320x480.png</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/platforms/android/res/drawable-port-hdpi</dir>
@@ -221,11 +221,12 @@
         <option value="$PROJECT_DIR$/node_modules/@ibm/type/scss/ibm-type.scss" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/index.html" />
-        <option value="$PROJECT_DIR$/src/main.vue" />
         <option value="$PROJECT_DIR$/src/routes.js" />
+        <option value="$PROJECT_DIR$/src/main.vue" />
+        <option value="$PROJECT_DIR$/src/last_results.js" />
+        <option value="$PROJECT_DIR$/src/assets/vue/pages/match.vue" />
         <option value="$PROJECT_DIR$/src/main.js" />
         <option value="$PROJECT_DIR$/config.xml" />
-        <option value="$PROJECT_DIR$/src/assets/vue/pages/match.vue" />
       </list>
     </option>
   </component>
@@ -247,11 +248,10 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="49" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="822" />
+    <option name="height" value="820" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -269,6 +269,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -282,11 +283,23 @@
               <item name="news" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="icons" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
@@ -299,7 +312,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="rou&#9;FILE&#9;file:///Users/soumya/Documents/codes/news/src/routes.js&#10;pac&#9;FILE&#9;file:///Users/soumya/Documents/codes/news/package.json&#10;config.xm&#9;FILE&#9;file:///Users/soumya/Documents/codes/news/config.xml&#10;route&#9;FILE&#9;file:///Users/soumya/Documents/codes/news/src/assets/vue/pages/dynamic-route.vue&#10;ibm&#9;FILE&#9;file:///Users/soumya/Documents/codes/news/node_modules/@ibm/type/scss/ibm-type.scss&#10;about&#9;FILE&#9;file:///Users/soumya/Documents/codes/news/src/assets/vue/pages/about.vue" />
+    <property name="SearchEverywhereHistoryKey" value="main&#9;FILE&#9;file:///Users/soumya/Documents/codes/news/src/main.js&#10;hookers.js&#9;FILE&#9;file:///Users/soumya/Documents/codes/news/hooks/hookers.js&#10;rou&#9;FILE&#9;file:///Users/soumya/Documents/codes/news/src/routes.js&#10;pac&#9;FILE&#9;file:///Users/soumya/Documents/codes/news/package.json&#10;config.xm&#9;FILE&#9;file:///Users/soumya/Documents/codes/news/config.xml&#10;route&#9;FILE&#9;file:///Users/soumya/Documents/codes/news/src/assets/vue/pages/dynamic-route.vue&#10;ibm&#9;FILE&#9;file:///Users/soumya/Documents/codes/news/node_modules/@ibm/type/scss/ibm-type.scss&#10;about&#9;FILE&#9;file:///Users/soumya/Documents/codes/news/src/assets/vue/pages/about.vue" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
@@ -311,11 +324,11 @@
       <recent name="$PROJECT_DIR$/platforms/android/res/drawable-port-ldpi" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/icons" />
+      <recent name="$PROJECT_DIR$/src/assets/images" />
+      <recent name="$PROJECT_DIR$/www/static" />
+      <recent name="$PROJECT_DIR$/platforms/browser/www/static" />
       <recent name="$PROJECT_DIR$/platforms/android/res/drawable-land-xxxhdpi" />
-      <recent name="$PROJECT_DIR$/platforms/android/res/drawable-land-xxhdpi" />
-      <recent name="$PROJECT_DIR$/platforms/android/res/drawable-land-xhdpi" />
-      <recent name="$PROJECT_DIR$/platforms/android/res/drawable-land-mdpi" />
-      <recent name="$PROJECT_DIR$/platforms/android/res/drawable-land-ldpi" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -430,7 +443,11 @@
       <workItem from="1513662259802" duration="2279000" />
       <workItem from="1513715429081" duration="6616000" />
       <workItem from="1513775976932" duration="16098000" />
-      <workItem from="1513836946553" duration="12240000" />
+      <workItem from="1513836946553" duration="13870000" />
+      <workItem from="1513861086217" duration="4055000" />
+      <workItem from="1514804070816" duration="1007000" />
+      <workItem from="1514873381272" duration="598000" />
+      <workItem from="1515396665777" duration="12424000" />
     </task>
     <task id="LOCAL-00001" summary="Articles added">
       <created>1512934641823</created>
@@ -446,11 +463,18 @@
       <option name="project" value="LOCAL" />
       <updated>1513664706430</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added giphy">
+      <created>1513856735411</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1513856735411</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78973000" />
+    <option name="totallyTimeSpent" value="98687000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -462,34 +486,44 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="3" y="22" width="1440" height="822" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="820" extended-state="0" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1726568" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.434663" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3232462" sideWeight="0.5024665" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.8707015" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8703448" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31911966" sideWeight="0.49753347" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31862068" sideWeight="0.49753347" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3232462" sideWeight="0.5024665" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.434663" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8707015" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31730768" sideWeight="0.49753347" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1726568" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -565,7 +599,8 @@
     <MESSAGE value="Articles added" />
     <MESSAGE value="From added :arrow_double_down:" />
     <MESSAGE value="Dynamic query added :first_quarter_moon_with_face:" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dynamic query added :first_quarter_moon_with_face:" />
+    <MESSAGE value="Added giphy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added giphy" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -574,61 +609,13 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/axios/index.d.ts" />
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="84" lean-forward="false" selection-start-line="14" selection-start-column="84" selection-end-line="14" selection-end-column="84" />
-          <folding>
-            <element signature="e#14#35#0" expanded="true" />
-            <element signature="e#574#651#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-47">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding>
-            <element signature="e#2270#2296#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding>
-            <element signature="e#14#35#0" expanded="true" />
-            <element signature="e#574#651#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
           <caret line="54" column="17" lean-forward="false" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
           <folding>
-            <element signature="e#2270#2296#0" expanded="true" />
+            <element signature="n#f7-views#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="e#1924#1950#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -637,11 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <marker date="1513854703000" expanded="true" signature="0:2000" ph="{&quot;name&quot;: &quot;com.example.newsapp&quot;...}" />
-            <marker date="1513854703000" expanded="true" signature="1151:1158" ph="{&quot;axios&quot;: &quot;^0.17.1&quot;...}" />
-            <marker date="1513854703000" expanded="true" signature="1151:1262" ph="{&quot;@ibm/type&quot;: &quot;^0.5.3&quot;...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -658,7 +640,8 @@
         <state relative-caret-position="255">
           <caret line="122" column="19" lean-forward="true" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
           <folding>
-            <element signature="e#2270#2296#0" expanded="true" />
+            <element signature="n#f7-views#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="e#1924#1950#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -676,7 +659,8 @@
         <state relative-caret-position="300">
           <caret line="125" column="42" lean-forward="false" selection-start-line="125" selection-start-column="42" selection-end-line="125" selection-end-column="42" />
           <folding>
-            <element signature="e#2270#2296#0" expanded="true" />
+            <element signature="n#f7-views#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="e#1924#1950#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -706,11 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <marker date="1513854703000" expanded="true" signature="0:2000" ph="{&quot;name&quot;: &quot;com.example.newsapp&quot;...}" />
-            <marker date="1513854703000" expanded="true" signature="1151:1158" ph="{&quot;axios&quot;: &quot;^0.17.1&quot;...}" />
-            <marker date="1513854703000" expanded="true" signature="1151:1262" ph="{&quot;@ibm/type&quot;: &quot;^0.5.3&quot;...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -733,10 +712,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="84" lean-forward="false" selection-start-line="14" selection-start-column="84" selection-end-line="14" selection-end-column="84" />
-          <folding>
-            <element signature="e#14#35#0" expanded="true" />
-            <element signature="e#574#651#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -745,7 +720,8 @@
         <state relative-caret-position="343">
           <caret line="35" column="62" lean-forward="true" selection-start-line="35" selection-start-column="62" selection-end-line="35" selection-end-column="62" />
           <folding>
-            <element signature="e#2270#2296#0" expanded="true" />
+            <element signature="n#f7-views#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="e#1924#1950#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -762,10 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="84" lean-forward="false" selection-start-line="14" selection-start-column="84" selection-end-line="14" selection-end-column="84" />
-          <folding>
-            <element signature="e#14#35#0" expanded="true" />
-            <element signature="e#574#651#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -773,11 +745,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <marker date="1513854703000" expanded="true" signature="0:2000" ph="{&quot;name&quot;: &quot;com.example.newsapp&quot;...}" />
-            <marker date="1513854703000" expanded="true" signature="1151:1158" ph="{&quot;axios&quot;: &quot;^0.17.1&quot;...}" />
-            <marker date="1513854703000" expanded="true" signature="1151:1262" ph="{&quot;@ibm/type&quot;: &quot;^0.5.3&quot;...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -786,7 +753,8 @@
         <state relative-caret-position="525">
           <caret line="35" column="26" lean-forward="true" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
           <folding>
-            <element signature="e#2270#2296#0" expanded="true" />
+            <element signature="n#f7-views#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="e#1924#1950#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -803,10 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding>
-            <element signature="e#14#35#0" expanded="true" />
-            <element signature="e#574#651#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -815,7 +779,8 @@
         <state relative-caret-position="810">
           <caret line="54" column="17" lean-forward="false" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
           <folding>
-            <element signature="e#2270#2296#0" expanded="true" />
+            <element signature="n#f7-views#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="e#1924#1950#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -824,11 +789,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="4" lean-forward="false" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <marker date="1513854703000" expanded="true" signature="0:2000" ph="{&quot;name&quot;: &quot;com.example.newsapp&quot;...}" />
-            <marker date="1513854703000" expanded="true" signature="1151:1158" ph="{&quot;axios&quot;: &quot;^0.17.1&quot;...}" />
-            <marker date="1513854703000" expanded="true" signature="1151:1262" ph="{&quot;@ibm/type&quot;: &quot;^0.5.3&quot;...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -845,7 +805,8 @@
         <state relative-caret-position="255">
           <caret line="122" column="19" lean-forward="true" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
           <folding>
-            <element signature="e#2270#2296#0" expanded="true" />
+            <element signature="n#f7-views#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="e#1924#1950#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -863,7 +824,8 @@
         <state relative-caret-position="300">
           <caret line="125" column="42" lean-forward="false" selection-start-line="125" selection-start-column="42" selection-end-line="125" selection-end-column="42" />
           <folding>
-            <element signature="e#2270#2296#0" expanded="true" />
+            <element signature="n#f7-views#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="e#1924#1950#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -883,63 +845,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/axios/index.d.ts" />
-    <entry file="file://$PROJECT_DIR$/node_modules/@ibm/type/scss/ibm-type.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1395">
-          <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@ibm/type/scss/ibm-type.scss" />
     <entry file="file://$PROJECT_DIR$/src/assets/vue/pages/form.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/images/svg_calculator.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="12" column="352" lean-forward="true" selection-start-line="12" selection-start-column="352" selection-end-line="12" selection-end-column="352" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-          <folding>
-            <marker date="1513854703000" expanded="true" signature="0:2000" ph="{&quot;name&quot;: &quot;com.example.newsapp&quot;...}" />
-            <marker date="1513854703000" expanded="true" signature="1151:1158" ph="{&quot;axios&quot;: &quot;^0.17.1&quot;...}" />
-            <marker date="1513854703000" expanded="true" signature="1151:1262" ph="{&quot;@ibm/type&quot;: &quot;^0.5.3&quot;...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/vue-router/types/index.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/svg_calculator.svg" />
+    <entry file="file://$PROJECT_DIR$/node_modules/vue-router/types/index.d.ts" />
     <entry file="file://$PROJECT_DIR$/platforms/browser/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -963,58 +878,103 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/www/platform_cordova_files/browser/platform_cordova_files/browser/manifest.json" />
+    <entry file="file://$PROJECT_DIR$/platforms/browser/www/static/splash_web.svg" />
+    <entry file="file://$PROJECT_DIR$/platforms/browser/www/static/splas_web.svg" />
+    <entry file="file://$PROJECT_DIR$/hooks/hookers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/splash_web.svg" />
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="93" column="0" lean-forward="false" selection-start-line="93" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/splash_web.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/platforms/browser/config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#35#0" expanded="true" />
-            <element signature="e#574#651#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/platform_cordova_files/browser/platform_cordova_files/browser/manifest.json">
+    <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="31" column="32" lean-forward="false" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1010">
-          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
           <folding>
-            <element signature="e#2270#2296#0" expanded="true" />
+            <element signature="n#f7-views#0;n#div#0;n#template#0;n#!!top" expanded="false" />
+            <element signature="e#1924#1950#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/last_results.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/vue/pages/match.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="93" column="43" lean-forward="false" selection-start-line="93" selection-start-column="43" selection-end-line="93" selection-end-column="43" />
+        <state relative-caret-position="337">
+          <caret line="82" column="30" lean-forward="false" selection-start-line="82" selection-start-column="30" selection-end-line="82" selection-end-column="30" />
           <folding>
             <element signature="e#928#954#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="33" column="21" lean-forward="false" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <folding>
+            <marker date="1515413701000" expanded="true" signature="0:2001" ph="{&quot;name&quot;: &quot;com.example.newsapp&quot;...}" />
+            <marker date="1515413701000" expanded="true" signature="1151:1629" ph="{&quot;@ibm/type&quot;: &quot;^0.5.3&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#35#0" expanded="true" />
+            <element signature="e#575#652#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="38" column="62" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

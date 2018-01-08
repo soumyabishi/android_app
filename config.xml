@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.example.newsapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.soumyabishi.lamour" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <hook src="hooks/hookers.js" type="before_prepare" />
     <hook src="hooks/beforedep.js" type="before_deploy" />
-    <name>newsapp</name>
+    <name>L'amour</name>
     <description>
         Brand new cordova project!
     </description>
@@ -25,9 +25,28 @@
         <allow-intent href="itms-apps:*" />
     </platform>
     <allow-navigation href="*" />
-    <preference name="SplashScreen" value="screen" />
-    <preference name="SplashScreenDelay" value="4000" />
+    <platform name="browser">
+        <preference name="SplashScreen" value="src/assets/images/320x480.png" />
+        <preference name="SplashScreenWidth" value="300" />
+        <preference name="SplashScreenHeight" value="640" />
+    </platform>
+    <preference name="ShowSplashScreen" value="true" />
     <preference name="SplashMaintainAspectRatio" value="true" />
+    <preference name="SplashScreenBackgroundColor" value="#22232D" />
+    <platform name="android">
+        <splash density="port-hdpi" src="src/assets/images/320x480.png" />
+        <splash density="port-ldpi" src="src/assets/images/200x320.png" />
+        <splash density="port-mdpi" src="src/assets/images/320x480.png" />
+        <splash density="port-xhdpi" src="src/assets/images/720x1280.png" />
+        <splash density="port-xxhdpi" src="src/assets/images/960x1600.png" />
+        <splash density="port-xxxhdpi" src="src/assets/images/1280x1920.png" />
+    </platform>
+    <platform name="android">
+        <icon density="mdpi" src="src/assets/icons/icon@MDPI.png" />
+        <icon density="ldpi" src="src/assets/icons/icon@HDPI.png" />
+        <icon density="hdpi" src="src/assets/icons/icon@HDPI.png" />
+        <icon density="xxhdpi" src="src/assets/icons/icon@XXXHDPI.png" />
+    </platform>
     <engine name="android" spec="^6.4.0" />
     <engine name="browser" spec="^5.0.1" />
     <engine name="ios" spec="4.5.4" />
